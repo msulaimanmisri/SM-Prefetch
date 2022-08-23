@@ -1,14 +1,21 @@
 === SM - Prefetch ===
  
 Contributors: sulaimanmisri
+
 Tags: Prefetch, Speed Optimization, Sulaiman Misri
+
 Requires at least: 5.5
+
 Tested up to: 6.0.1
+
 Stable tag: 1.1
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-  
-This plugin will make your website load faster using Prefetch Algorithm from Quicklink. Best if you have multipage website.
+
+
+Description : This plugin will make your website load faster using Prefetch Algorithm from Quicklink. Best if you have multipage website.
   
 == Installation ==
   
