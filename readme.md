@@ -35,6 +35,7 @@ This plugin will make your website load faster using Prefetch Algorithm from Qui
      alt="speed-simulation-2.PNG" />
   
 == Changelog ==
+
 = 1.1 =
 * Fix plugin serve all the files locally.
 
