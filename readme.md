@@ -5,7 +5,7 @@ Tags: speed optimization, prefetch, bani kelajuan
 
 Requires at least: 5.0
 
-Tested up to: 6.0
+Tested up to: 6.1.1
 
 Stable tag: 1.3
 
@@ -50,6 +50,11 @@ SM Fetch is built to make your website load blazing fast using Prefetch Algorith
 2. But I do accept Freelance work. Please go to my website (Click at my profile below).
 
 ## Changelog ##
+
+### 1.4.0 ###
+* Enqueue the script properly using WordPress default wp_enqueue_script.
+* Adding new function, which is to remove all the versioning tag in WordPress JavaScript file.
+* Refactoring files.
 
 ### 1.3.0 ###
 * Change from serve locally to serve JS file using CDN.
