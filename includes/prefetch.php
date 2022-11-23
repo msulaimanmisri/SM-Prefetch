@@ -23,7 +23,7 @@ function removeJsVersion($src)
 }
 
 /**
- * Now we execute the Code
+ * Execute the Code
  */
-add_action('get_footer', 'smPrefetch', 999);
+add_action('wp_enqueue_scripts', 'smPrefetch', 999);
 add_filter('script_loader_src', 'removeJsVersion', 999);
