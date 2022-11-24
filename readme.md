@@ -48,6 +48,9 @@ SM Fetch is built to make your website load blazing fast using Prefetch Algorith
 ## Changelog ##
 
 ### 1.4.1 ###
+* Change from Event `DOMContentLoaded` into `Load` as the original developers suggest.
+
+### 1.4.1 ###
 * Fix the plugin is not compatible with Oxygen and Breakdance Page Builder.
 * Fix the plugin is not compatible with Twenty-Two Theme.
 * Change from `get_footer` hook to `wp_enqueue_scripts` hook.

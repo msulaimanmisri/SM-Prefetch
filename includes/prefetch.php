@@ -17,8 +17,10 @@ function smPrefetch()
  */
 function removeJsVersion($src)
 {
-    if (strpos($src, '?ver='))
+    if (strpos($src, '?ver=')) {
         $src = remove_query_arg('ver', $src);
+    }
+
     return $src;
 }
 
