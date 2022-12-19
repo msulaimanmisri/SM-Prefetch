@@ -4,7 +4,7 @@
  * Plugin Name:       SM - Prefetch
  * Plugin URI:        https://wordpress.org/plugins/sm-prefetch/
  * Description:       This is not an normal Plugin. This plugin will make your website load blazing fast using Prefetch Algorithm. And it's run automatically! No settings needed. Easy right?
- * Version:           1.4.2
+ * Version:           1.5.0
  * Author:            Sulaiman Misri
  * Author URI:        https://github.com/msulaimanmisri
  * Text Domain:       sm-prefetch
