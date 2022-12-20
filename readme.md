@@ -52,6 +52,11 @@ SM Fetch is built to make your website load blazing fast using Prefetch Algorith
 
 ## Changelog
 
+### 1.5.1
+
+- Create new logic for `woocommerce` plugin.
+- Fix Website show `Critical Error` when there's no Woocommerce plugin active.
+
 ### 1.5.0
 
 - Exclude all Woocommerce Pages using `is_woocommerce` and `woocommerce_myaccount_page_id` built-in function.
